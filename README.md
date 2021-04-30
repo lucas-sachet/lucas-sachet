@@ -1,7 +1,7 @@
 <h2 align='center'> Hi there, I'm Lucas 👋 </h2>
 <p align="center">
   <br>
-  <samp>I'm a Full Stack developer and a enthusiastic about JavaScript technologies and their entire ecosystem.</samp>
+  <samp>I'm a Front-end developer and a enthusiastic about JavaScript technologies and their entire ecosystem.</samp>
   <br>
   
 </p>
@@ -23,18 +23,16 @@
 </p>
 
 <hr>
-<h4 align='center'>🌱 I’m currently learning React,ReactNative,NodeJS and other JS improvments.</h4>
+<h4 align='center'>🌱 I’m currently learning React, Next, NodeJS and other JS improvments.</h4>
 <p align='center'>
   <img  src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img  src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
-<h4 align='center'>💬 Ask me about: tech, games, series and tell me about investments.</h4>
 
 
 <hr>
-<h4 align='center'>⚡ Technologies: React, Node, React-Native.</h4> 
+<h4 align='center'>⚡ Technologies: React, Node, Next.</h4> 
 <p align='center'>
 "Success is the sum of small efforts repeated day after day" – Robert Collier. 
 </p>
